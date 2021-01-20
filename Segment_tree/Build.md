@@ -1,7 +1,7 @@
 [Easy segment tree](https://kartikkukreja.wordpress.com/2014/11/09/a-simple-approach-to-segment-trees/)
 
 # Observation
-- <font size="4">We build segment tree from an array to do some query 
+- <font size="4">We build segment tree from an array to do some query
 - Segment tree works in range and implement by merge sort algorithm method
 - We create balanced binary tree so that we maintain tree size in **(log<sub>n</sub>)** time 
 - we divide the range in two equal parts and maintain some information in every child of tree according to our purpose
