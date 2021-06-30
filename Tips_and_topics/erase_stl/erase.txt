@@ -1,0 +1,1 @@
+S.erase(unique(S.begin(), S.end()), S.end());
