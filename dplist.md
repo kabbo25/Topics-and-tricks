@@ -45,3 +45,8 @@ https://blog.csdn.net/cc_again/article/details/25866971?ops_request_misc=%257B%2
 
 (3条消息) Dynamic Programming: From novice to advanced_threewells_14的博客-CSDN博客
 https://blog.csdn.net/threewells_14/article/details/2309753
+
+
+
+course - HackMD
+https://hackmd.io/@jakao/course
