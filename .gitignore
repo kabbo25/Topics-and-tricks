@@ -1,0 +1,5 @@
+*.out
+*.cpp:tests
+code
+code__Good
+code__Generator
